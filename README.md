@@ -33,3 +33,13 @@
 
 - 🌍 [Movie App Demo](https://n1ckdevops.github.io/movieReactApp/)
 
+## 🖼️ Screenshots
+
+![Screenshot_1](public/Screenshot_1.png)
+![Screenshot_2](public/Screenshot_3.png)
+
+## 👤 Author
+
+Nickolas  
+Frontend Developer  
+GitHub: [@n1ckdevops](https://github.com/n1ckdevops)
