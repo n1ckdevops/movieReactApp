@@ -31,7 +31,7 @@
 
 ## 🔗 Demo
 
-- 🌍 [Movie App Demo](https://n1ckdevops.github.io/movieReactApp/)
+- 🌍 [Movie App Demo](https://movie-react-app-phi.vercel.app/)
 
 ## 🖼️ Screenshots
 
