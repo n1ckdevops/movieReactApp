@@ -1,16 +1,45 @@
-# React + Vite
+<div align="center">
+  
+   ![Hero background](public/hero-img.png)
+  <div>
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  </div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  <h3 align="center">A Movie App</h3>
 
-Currently, two official plugins are available:
+   <div align="center">
+     MovieReactApp is a modern, responsive movie search web application built with React 19, Vite, and Tailwind CSS. The app provides a clean UI for browsing and searching movies.
+    </div>
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- 🔍 Movie search by title  
+- 📱 Responsive UI with Tailwind CSS  
+- 🖼️ Fallback image for missing posters  
+- ⚡ Fast build with Vite  
+- 👉 Responsiveness
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧰 Tech Stack
 
-## Expanding the ESLint configuration
+- ⚛️ React  
+- ⚡ Vite  
+- 🎨 Tailwind CSS  
+- 🛠️ ESLint  
+- 🚀 GitHub Pages
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔗 Demo
+
+- 🌍 [Movie App Demo](https://n1ckdevops.github.io/movieReactApp/)
+
+## 🖼️ Screenshots
+
+![Screenshot_1](public/Screenshot_1.png)
+![Screenshot_2](public/Screenshot_3.png)
+
+## 👤 Author
+
+Nickolas  
+Frontend Developer  
+GitHub: [@n1ckdevops](https://github.com/n1ckdevops)
